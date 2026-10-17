@@ -1,0 +1,13 @@
+# Ignore IntelliJ IDE installation & build files
+IntelliJ IDEA*/
+.idea/
+
+# Node dependencies & builds
+**/node_modules/
+**/.next/
+**/dist/
+**/build/
+
+# Environment and logs
+*.log
+.env*.local
